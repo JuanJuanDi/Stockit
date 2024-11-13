@@ -51,13 +51,12 @@ Controla y administra tu inventario de manera eficiente.
  
 ### Base de Datos
 - MongoDB 
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="549" preserveAspectRatio="xMidYMid"><path fill="#01EC64" d="M176 61c-23-27-43-55-47-61a1 1 0 0 0-2 0c-4 6-24 34-47 61a283 283 0 0 0 31 422l2 1 6 64h17l6-64 2-1c1 0 229-170 32-422Zm-48 418s-10-9-13-13l12-275h2l12 275-13 13Z"/></svg>
+![MongoDB](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress)
 ---
 
 ## Nuestro Equipo
 
 - **Diseñadores UX/UI**: 🎨 Matias Sticca, Silvana Maldonado, Manuel Lo Grasso (
 - **Backend y Frontend**: 👨🏻‍💻  Juan Diego Hurtado Bastidas
-
 (Solo se tomaron en cuenta a los intengrantes de diseño ya que de su proyecto se tomo el diseño del [Figma](https://www.figma.com/design/geKluTEWFZbvuAhewBBNbX/StockIT).
 ---
