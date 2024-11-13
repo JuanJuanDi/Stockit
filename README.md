@@ -36,24 +36,25 @@ Controla y administra tu inventario de manera eficiente.
 
 ### Frontend
 
-### Frontend
 - Angular  
-  ![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg)
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="100" height="100">
 
 - Tailwind CSS  
-  ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="100" height="100">
 
 ### Backend
+
 - Node.js  
-  ![Node.js Logo](https://nodejs.org/static/images/logo.svg)
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="100" height="100">
 
 - Express  
-  ![Express Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) <!-- Nota: No existe SVG oficial público para Express, así que este es un PNG -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="100" height="100">
 
 ### Base de Datos
+
 - MongoDB  
-  ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="100" height="100">
+
 
 ---
 
