@@ -9,8 +9,8 @@
 
 ### Backend (Lógica de Negocio y Base de Datos)
 1. Autenticación y Gestión de Usuarios.  ✔  ✔ 
-2. Gestión de Proveedores.
-3. CRUD de Productos.
+2. Gestión de Proveedores.✔  ✔ 
+3. CRUD de Productos. ✔  ✔ 
 4. Gestión de Catálogos.
 5. Reportes de Productos.
 6. Configuración de la Tienda.
