@@ -4,6 +4,8 @@ const connectDB = require('./config/db');
 const authRoutes = require('./routes/auth');
 const productRoutes = require('./routes/productRoutes');
 const providerRoutes = require('./routes/providerRoutes');
+const categoryRoutes = require('./routes/categoryRoutes');
+
 const app = express();
 
 require('dotenv').config();
@@ -21,13 +23,13 @@ app.get('/', (req, res) => {
 });
 
 // Rutas
-app.use('/api/auth', authRoutes); 
+app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/providers', providerRoutes);
+app.use('/api/categories', categoryRoutes);
 
 // Iniciar el servidor
 const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => {
   console.log(`Servidor escuchando en http://localhost:${PORT}`);
 });
-
