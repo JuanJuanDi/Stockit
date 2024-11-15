@@ -11,8 +11,7 @@
 1. Autenticación y Gestión de Usuarios.  ✔  ✔ 
 2. Gestión de Proveedores.✔  ✔ 
 3. CRUD de Productos. ✔  ✔ 
-4. Gestión de Catálogos.
+4. Gestión de Catálogos. ✔  ✔ 
 5. Reportes de Productos.
 6. Configuración de la Tienda.
 7. Catálogo de Productos Público (Tienda en Línea).
-8. Gestión de Pedidos.
